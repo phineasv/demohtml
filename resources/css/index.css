@@ -1,0 +1,16 @@
+h1 {
+    font-family: Didot;
+    color:darkblue;
+}
+
+li {
+    font-weight: bold
+}
+
+p {
+    font-family: Candara;
+}
+
+.picture-description {
+    font-size: 18px green;
+}
